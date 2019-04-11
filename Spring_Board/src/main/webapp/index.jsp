@@ -9,7 +9,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>인덱스 페이지</title>
+<title>시작 페이지</title>
 </head>
 <body>
 	<h1>
